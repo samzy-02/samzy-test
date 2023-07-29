@@ -1,0 +1,2 @@
+# samzy-test
+samzy test
